@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bharath-6](https://github.com/Bharath-6)
 
-- 💬 Ask me about **JAVA, PYTON, OOPS, DSA**
+- 💬 Ask me about **JAVA, PYTHON, OOPS, DSA**
 
 - 📫 How to reach me **veerasaibharath29@gmail.com**
 
