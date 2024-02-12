@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I worked on [Lan Chat App](https://github.com/Bharath-6/Lan-chat-app-master)
+- 🔭 I worked on [Weather App](https://github.com/Bharath-6/Lan-chat-app-master)
 
 - 🌱 I’m currently learning **DSA**
 
