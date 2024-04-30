@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I worked on [Weather App](https://github.com/Bharath-6/Lan-chat-app-master)
+- 🔭 I worked on [Weather App](https://github.com/Bharath-6/Weather-App)
 
 - 🌱 I’m currently learning **DSA**
 
-- I worked on [Drowsiness Detection](https://github.com/Bharath-6/Drowsiness-Detection-Final-Year-Project)
+- I worked on [Movie Review Full Stack Application](https://github.com/Bharath-6/Movie-Review-Box)
 
 - I worked on [Food Order and Delivery Portal](https://github.com/Bharath-6/Food-Order-and-Delivery-Portal-Project)
 
