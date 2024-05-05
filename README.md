@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I worked on [Weather App](https://github.com/Bharath-6/Weather-App)
+- 🔭 I worked on [Movie Review Application](https://github.com/Bharath-6/Movie-Review-Box)
 
 - 🌱 I’m currently learning **DSA**
 
